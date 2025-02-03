@@ -15,7 +15,7 @@
 
 ### Installation and how to use
 
-Open your terminal and follow the instructions :
+[ WINDOWS ] Open your terminal and follow the instructions :
 
 1 - ` git clone https://github.com/k4l4shnik0pyw/XRay-Tools `
 2 - ` cd XRay-Tools `
@@ -23,6 +23,8 @@ Open your terminal and follow the instructions :
 4 - ` start Start.bat ` or ` python main.py `
 
 Know you can use the tool !
+
+**Soon a version for Linux users !**
 
 ---
 ## Pictures
