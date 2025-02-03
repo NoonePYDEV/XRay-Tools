@@ -3,7 +3,7 @@
 ## XrayTools is a versatile script designed to automate various tasks related to Discord and cybersecurity 🔓. It offers:
 
 - 🔹 **Generators:** Nitro, passwords
-- 🔹 **Pentest & Exploits:** Token login, stealer, RAT Builder
+- 🔹 **Pentest & Exploits:** Token login, Stealer Builder, RAT Builder
 - 🔹 **Attacks:** DDoS, Nuke Server, webhook spam
 - 🔹 **Utilities:** System info, database search
 
