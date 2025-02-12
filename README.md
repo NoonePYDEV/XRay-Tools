@@ -15,7 +15,7 @@
 
 ### Installation and how to use
 
-[ WINDOWS ] Open your terminal and follow the instructions :
+**[ WINDOWS ]** Open your terminal and follow the instructions :
 
 1 - ` git clone https://github.com/NoonePYDEV/XRay-Tools `
 <br>
@@ -27,7 +27,7 @@
 
 Know you can use the tool !
 
-[ LINUX and MOBILE ] Open your terminal and follow the instructions :
+**[ LINUX and MOBILE ]** Open your terminal and follow the instructions :
 
 1 - ` git clone https://github.com/NoonePYDEV/XRay-Tools `
 <br>
