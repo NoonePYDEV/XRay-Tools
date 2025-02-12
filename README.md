@@ -49,4 +49,5 @@ Know you can use the tool !
 ![image](https://github.com/user-attachments/assets/b4045e84-e799-48ef-9305-896578be73f9)
 
 **Mobile adapted version**
-![image](https://github.com/user-attachments/assets/8e269cec-3c63-4a75-a674-af517ee58690)
+<br>
+![image](https://github.com/user-attachments/assets/ccc27ede-61a9-4c19-a109-efdb1ffd6d07)
