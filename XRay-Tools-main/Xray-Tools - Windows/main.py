@@ -44,7 +44,7 @@ os_architecture = platform.architecture()[0]
 
 if os_name == "Windows":
     detailed_version = platform.win32_ver()[0]  
-    os_infos = f"{os_name} {detailed_version} {os_architecture}"
+    os_info = f"{os_name} {detailed_version} {os_architecture}"
 else:
     os_info = f"{os_name} {os_release} {os_architecture}"
 
