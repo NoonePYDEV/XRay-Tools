@@ -37,7 +37,7 @@ Know you can use the tool !
 <br>
 4 - ` python3 main.py `
 
-*if you doesn't have one you can install Termux (Android) or iSH (iOS)*
+*if you doesn't have a terminal on your mobile phone you can install Termux (Android) or iSH (iOS)*
 
 ---
 ## Pictures
