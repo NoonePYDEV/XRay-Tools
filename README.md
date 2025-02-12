@@ -51,7 +51,7 @@ Know you can use the tool !
 ---
 
 ## Mobile adapted version
-![IMG_5053](https://github.com/user-attachments/assets/894fdfaf-a7e8-48bd-9520-ca13b249a313)
+<img src="./XRay-Tools-main/Img/IMG_5053.png width="300px> height="300px">
 
 
 
