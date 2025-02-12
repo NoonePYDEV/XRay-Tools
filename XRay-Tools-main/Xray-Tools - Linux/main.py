@@ -803,7 +803,7 @@ BOT_TOKEN = '{bot_token}'\n""")
         {RED}[USER : {RST}{os.getlogin()}{RED}]               
         {RED}[WORKING ON : {RST}{os_info}{RED}]              
         {RED}[USER IP : {RST}{user_ip}{RED}]
-        {RED}[DISCORD :{RST} https://discord.gg/CfRTmZqJAV{RED}]
+        {RED}[DISCORD :{RST} https://discord.gg/9274AD29fA{RED}]
         {RED}[GITHUB :{RST} https://github.com/NoonePYDEV{RED}]
         {RED}[BY {RST}K4L4SHNIK0V{RED}]                  
     """
