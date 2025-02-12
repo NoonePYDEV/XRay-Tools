@@ -48,7 +48,7 @@ Know you can use the tool !
 **Menu 2**
 ![image](https://github.com/user-attachments/assets/b4045e84-e799-48ef-9305-896578be73f9)
 
-**Mobile adapted version**
+## Mobile adapted version
 <br>
 ![image](https://github.com/user-attachments/assets/32501e9e-06e5-4873-83b5-f3e62d82b80b)
 
