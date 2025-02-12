@@ -46,7 +46,7 @@ if os_name == "Windows":
     detailed_version = platform.win32_ver()[0]  
     os_infos = f"{os_name} {detailed_version} {os_architecture}"
 else:
-    os_info = f"{os_name} {os_release} {os_architecture}"
+    os_infos = f"{os_name} {os_release} {os_architecture}"
 
 hostname = socket.gethostname()
 user_ip = socket.gethostbyname(hostname)
@@ -801,7 +801,7 @@ BOT_TOKEN = '{bot_token}'\n""")
     user_infos = f"""
 
         {RED}[USER : {RST}{os.getlogin()}{RED}]               
-        {RED}[WORKING ON : {RST}{os_info}{RED}]              
+        {RED}[WORKING ON : {RST}{os_infos}{RED}]              
         {RED}[USER IP : {RST}{user_ip}{RED}]
         {RED}[DISCORD :{RST} https://discord.gg/9274AD29fA{RED}]
         {RED}[GITHUB :{RST} https://github.com/NoonePYDEV{RED}]
