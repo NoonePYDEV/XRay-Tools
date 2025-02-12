@@ -50,5 +50,6 @@ Know you can use the tool !
 
 ## Mobile adapted version
 <br>
-![image](https://github.com/user-attachments/assets/32501e9e-06e5-4873-83b5-f3e62d82b80b)
+![image](https://github.com/user-attachments/assets/ee471990-6def-41c6-8f96-c82e9069d82d)
+
 
