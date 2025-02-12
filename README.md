@@ -51,7 +51,7 @@ Know you can use the tool !
 ---
 
 ## Mobile adapted version
-<img src="./XRay-Tools-main/Img/IMG_5053.png width="300px> height="300px">
+<img src="./XRay-Tools-main/Img/IMG_5053.png" width="300px" height="300px">
 
 
 
