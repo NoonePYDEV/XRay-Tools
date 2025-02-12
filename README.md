@@ -18,8 +18,11 @@
 [ WINDOWS ] Open your terminal and follow the instructions :
 
 1 - ` git clone https://github.com/NoonePYDEV/XRay-Tools `
+<br>
 2 - ` cd XRay-Tools `
+<br>
 3 - ` start Setup.bat `
+<br>
 4 - ` start Start.bat ` or ` python main.py `
 
 Know you can use the tool !
@@ -27,8 +30,11 @@ Know you can use the tool !
 [ LINUX and MOBILE ] Open your terminal and follow the instructions :
 
 1 - ` git clone https://github.com/NoonePYDEV/XRay-Tools `
+<br>
 2 - ` cd XRay-Tools `
+<br>
 3 - ` python3 Setup.py `
+<br>
 4 - ` python3 main.py `
 
 *if you doesn't have one you can install Termux (Android) or iSH (iOS)*
