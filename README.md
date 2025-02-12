@@ -48,8 +48,10 @@ Know you can use the tool !
 **Menu 2**
 ![image](https://github.com/user-attachments/assets/b4045e84-e799-48ef-9305-896578be73f9)
 
+---
+
 ## Mobile adapted version
-<br>
-![image](https://github.com/user-attachments/assets/ee471990-6def-41c6-8f96-c82e9069d82d)
+![IMG_5053](https://github.com/user-attachments/assets/894fdfaf-a7e8-48bd-9520-ca13b249a313)
+
 
 
